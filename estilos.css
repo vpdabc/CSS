@@ -66,7 +66,11 @@ a:hover {
   text-align: center;
   color: white;
 }
-  
+
+.site-title {
+  font-size: 4em;
+}
+
 .site-subtitle {
   font-style: italic
 }
