@@ -19,6 +19,7 @@ header {
 .menu {
   background-color: black;
   position: fixed;
+  width: 100vw;
 }
   
 .menu ul {
