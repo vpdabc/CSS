@@ -10,6 +10,11 @@ body {
     font-family: Courier; 
     height: 100vh; 
 }
+
+header {
+  height: 100vh;
+  display: flex;
+}
   
 .menu {
   background-color: black;
