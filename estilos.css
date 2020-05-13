@@ -9,7 +9,14 @@ body {
     background-size: auto 100vh;
     font-family: Courier; 
     height: 100vh; 
+    font-size: 10px;
 }
+
+@media (min-widht: 400px) {
+  body {
+    font-size: 14px;
+  }   
+}    
 
 header {
   height: 50vh;
