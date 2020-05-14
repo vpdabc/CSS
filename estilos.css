@@ -102,6 +102,7 @@ a:hover {
 .portfolio .grid {
   display: grid;
   gap: 2em;
+  color: white;
 }
 
 @media (min-width: 560px) {
