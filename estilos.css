@@ -24,6 +24,14 @@ body {
   }
 }
 
+@media (min-width: 1220px) {
+  body {
+    font-size: 20px;
+    background-image: none;
+    background-color: none;
+  }
+}
+
 header {
   height: 50vh;
   display: flex;
@@ -69,6 +77,7 @@ a:hover {
 
 .site-title {
   font-size: 4em;
+  font-family: 'Courgette', cursive;
 }
 
 .site-subtitle {
