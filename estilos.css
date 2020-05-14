@@ -10,6 +10,7 @@ body {
     font-family: 'Handlee', cursive; 
     height: 100vh; 
     font-size: 12px;
+    font-color: white;
 }
 
 @media (min-widht: 400px) {
