@@ -85,6 +85,10 @@ a:hover {
   line-height: 1.8em;
 }
 
+.portfolio h2 {
+  font-family: 'Handlee', cursive;
+}
+
 .img-portfolio {
   height: 180px;
   width: 180px;
