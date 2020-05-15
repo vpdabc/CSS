@@ -144,4 +144,5 @@ a:hover {
 
 .contato a:hover {
 text-decoration:none;
+text-shadow: 0px 0px 20px coral;
 }
