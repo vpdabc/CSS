@@ -145,6 +145,7 @@ a:hover {
 .contato a {
   color: white;
   font-size: 4em;
+  transition: text-shadow 1s;
 }
 
 .contato a:active,
