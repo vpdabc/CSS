@@ -134,6 +134,10 @@ a:hover {
 }
 
 .contato a {
-  color: white;
-  font-size: 4em;
+  color:white;
+  font-size:4em;
+}
+
+.contato a:hover {
+  text-decoration:none;
 }
