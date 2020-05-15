@@ -87,7 +87,7 @@ a:hover {
   line-height: 1.8em;
 }
 
-.contato,
+.contato, 
 .portfolio {
   padding: 2em;
   min-height: 100vh;
@@ -104,7 +104,7 @@ a:hover {
 .portfolio .grid {
   display: grid;
   gap: 2em;
-  color: white;
+  color: white
 }
 
 @media (min-width: 560px) {
@@ -138,8 +138,8 @@ a:hover {
 }
 
 .contato a {
-  color:white;
-  font-size:4em;
+  color: white;
+  font-size: 4em;
 }
 
 .contato a:hover {
