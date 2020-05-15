@@ -60,12 +60,11 @@ header {
 .menu a {
 display: block;
 padding: 10px 20px;
-transition: background-color 5s, color 2s;
+transition: background-color 1s, color 1s;
 }
 
 .menu a:hover {
   background-color: white;
-  color: black;
 }
 
 a{
