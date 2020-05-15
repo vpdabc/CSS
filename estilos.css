@@ -140,6 +140,10 @@ a:hover {
   object-position: left bottom;
 }
 
+.img-portfolio:hover {
+  transform: scale(1)
+}
+
 .contato .icons {
   text-align: center;
 }
