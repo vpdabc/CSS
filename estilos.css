@@ -132,3 +132,7 @@ a:hover {
   object-fit: cover;
   object-position: left bottom;
 }
+
+.contato a {
+  color: white;
+}
