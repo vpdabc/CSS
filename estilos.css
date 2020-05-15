@@ -63,11 +63,11 @@ padding: 10px 20px;
 }
 
 .menu a:hover {
-  background-color: white
+  background-color: coral;
 }
 
 a{
-   color: white;
+   color: coral;
    text-decoration: none;
 }
 
