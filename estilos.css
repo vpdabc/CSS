@@ -64,6 +64,7 @@ padding: 10px 20px;
 
 .menu a:hover {
   background-color: coral;
+  color: black;
 }
 
 a{
