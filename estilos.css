@@ -90,7 +90,7 @@ a:hover {
 .contato,
 .portfolio {
   padding: 2em;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .contato h2,
