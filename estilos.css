@@ -195,7 +195,7 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
 }
 
 .img-portfolio:hover {
-  transform: scale(1.2)
+  transform: scale(1.2);
 }
 
 .card {
