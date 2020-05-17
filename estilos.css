@@ -154,8 +154,7 @@ a:hover {
   .sobre .avatar {
   float: right;
   margin-left: 2em;
-  font-size: smaller;
-  width: 30%;
+  width: 45%;
 }
 
 .sobre .avatar img {
