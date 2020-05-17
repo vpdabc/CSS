@@ -119,6 +119,7 @@ a:hover {
   min-height: 100vh;
 }
 
+.sobre h2,
 .contato h2,
 .portfolio h2 {
   font-family: 'Handlee', cursive;
