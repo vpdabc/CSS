@@ -132,6 +132,7 @@ a:hover {
   color: white;
   text-indent: 1.4em;
   margin-bottom: 1.4em;
+  text-align: justify;
 }
 
 .portfolio .grid {
