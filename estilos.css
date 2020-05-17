@@ -143,6 +143,14 @@ a:hover {
   text-align: justify;
 }
 
+.sobre a {
+  color: white
+}
+
+.sobre a:hover {
+  background-color: coral
+}
+
 .portfolio .grid {
   display: grid;
   gap: 2em;
