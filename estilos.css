@@ -144,12 +144,12 @@ a:hover {
 }
 
 .sobre a {
-  color: white
+  color: white;
 }
 
 .sobre a:hover {
-  background-color: coral
-}
+  background-color: coral;
+}  
 
 .portfolio .grid {
   display: grid;
