@@ -119,6 +119,16 @@ a:hover {
   min-height: 100vh;
 }
 
+@media (min-width: 1200px) {
+.sobre,
+.portfolio,
+.contato {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+}
+
 .sobre h2,
 .contato h2,
 .portfolio h2 {
