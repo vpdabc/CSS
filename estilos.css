@@ -154,6 +154,7 @@ a:hover {
 .sobre .avatar {
   float: right;
   margin-left: 2em;
+  border-radius: 50%;
 }
 
 .portfolio .grid {
