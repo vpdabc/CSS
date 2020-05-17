@@ -188,7 +188,7 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
 
 .img-portfolio {
   height: 180px;
-  width: 240px;
+  width: 100%;
   object-fit: cover;
   object-position: left bottom;
   transition: transform 500ms;
@@ -196,6 +196,20 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
 
 .img-portfolio:hover {
   transform: scale(1.2)
+}
+
+.card {
+  position:relative;
+}
+
+.card-front, .card-pack {
+  position:absolute;
+}
+
+.card-back {
+  background-color: coral;
+  height:180px;
+  width: 100%;
 }
 
 .contato .icons {
