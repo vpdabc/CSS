@@ -157,7 +157,7 @@ a:hover {
 }
 
 .sobre .avatar img {
-border-radius: 20%;
+clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
 }
 
 .portfolio .grid {
