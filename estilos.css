@@ -151,9 +151,11 @@ a:hover {
   background-color: coral;
 }  
 
-.sobre .avatar {
+  .sobre .avatar {
   float: right;
   margin-left: 2em;
+  font-size: smaller;
+  width: 30%;
 }
 
 .sobre .avatar img {
