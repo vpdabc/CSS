@@ -200,6 +200,7 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
 
 .flip-card {
   background-color: darksalmon;
+  perspective: 500px;
 }
 
 .card {
