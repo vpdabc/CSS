@@ -208,6 +208,7 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
 
 .card-front, 
 .card-back {
+  backface-visibility: hidden;
   position:absolute;
   left: 0;
   top; 0;
