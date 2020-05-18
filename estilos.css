@@ -202,6 +202,10 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
   position:relative;
 }
 
+.card:hover {
+  transform: rotate(180deg);
+}
+
 .card-front, 
 .card-back {
   position:absolute;
