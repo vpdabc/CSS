@@ -200,6 +200,7 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
 
 .card {
   position:relative;
+  transform-style: preserve-3d;
 }
 
 .card:hover {
