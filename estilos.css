@@ -194,17 +194,21 @@ clip-path: polygon(8% 0, 100% 0%, 100% 83%, 75% 84%, 15% 100%, 27% 85%, 8% 85%);
   transition: transform 500ms;
 }
 
-.img-portfolio:hover {
-  transform: scale(1.2);
+/*.img-portfolio:hover {
+  transform: scale(1.2) rotate(-2deg);
+}*/
+
+.flip-card {
+  background-color: darksalmon;
 }
 
 .card {
-  position:relative;
+  position: relative;
   transform-style: preserve-3d;
   transition: transform 1s;
 }
 
-.card:hover {
+.flip-card:hover .card{
   transform: rotate(180deg);
 }
 
